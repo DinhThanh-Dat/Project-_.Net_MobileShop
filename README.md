@@ -3,6 +3,7 @@
 <hr>
 Dự án tập trung xây dựng một hệ thống phần mềm quản lý chuyên nghiệp dành cho các cửa hàng kinh doanh điện thoại và phụ kiện. Phần mềm giúp tối ưu hóa quá trình quản lý, giảm tải công việc cho nhân viên và hạn chế tối đa sai sót trong vận hành như kiểm kho, ghi chép hóa đơn hay tìm kiếm thông tin
 
+
 **🚀 Các tính năng chính**
 <hr>
 Hệ thống được phân quyền chặt chẽ theo 3 vai trò chính:
@@ -18,6 +19,7 @@ Nghiệp vụ bán hàng: Tìm kiếm sản phẩm, quản lý giỏ hàng, than
 Quản lý khách hàng: Thêm mới, chỉnh sửa thông tin và xem lịch sử mua hàng của khách
 Tra cứu: Xem danh sách sản phẩm và lịch sử bán hàng cá nhân
 Chấm công: Thực hiện check-in/check-out khi vào ca
+<hr>
 
 **3. Nhân viên kho (Stock Keeper)**
 <hr>
